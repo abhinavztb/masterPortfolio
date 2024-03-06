@@ -35,6 +35,8 @@ class Education extends Component {
                   Basic Qualification and Certifcations
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
+                <img src="badges.png" alt="badges" />
+
               </div>
             </div>
           </Fade>
